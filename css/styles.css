@@ -11744,5 +11744,8 @@ html {
 }
 
 @media only screen and (max-device-width: 480px) {
-  .px-5 { padding: 16px !important }
+  .px-5 { 
+    padding-left: 16px !important;
+    padding-right: 16px !important 
+  }
 }
