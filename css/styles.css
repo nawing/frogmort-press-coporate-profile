@@ -11742,3 +11742,7 @@ html {
   border-radius: 10px !important;
   overflow: hidden;
 }
+
+@media only screen and (max-device-width: 480px) {
+  .px-5 { padding: 16px !important }
+}
